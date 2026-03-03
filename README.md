@@ -17,7 +17,7 @@ I also share content on **LinkedIn** about software development, SaaS and the in
 
 <p align="left">
   <a href="https://github.com/luizfelipe-pacifico">
-    <img src="https://img.shields.io/badge/GitHub-'LUIZFELIPE-PACIFICO'-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-LUIZFELIPE--PACIFICO-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://instagram.com/oreidosites">
     <img src="https://img.shields.io/badge/Instagram-@luizfelipe.pacifico-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
