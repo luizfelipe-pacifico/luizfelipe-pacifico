@@ -19,9 +19,6 @@ I also share content on **LinkedIn** about software development, SaaS and the in
   <a href="https://github.com/luizfelipe-pacifico">
     <img src="https://img.shields.io/badge/GitHub-LUIZFELIPE--PACIFICO-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://instagram.com/oreidosites">
-    <img src="https://img.shields.io/badge/Instagram-@luizfelipe.pacifico-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
   <a href="https://www.linkedin.com/in/luiz-felipe-pacifico-aba0a6237" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Luiz%20Felipe%20Pac%C3%ADfico-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
